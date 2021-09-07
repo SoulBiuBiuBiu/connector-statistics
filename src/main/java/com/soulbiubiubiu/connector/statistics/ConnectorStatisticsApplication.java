@@ -1,4 +1,4 @@
-package com.example.connector.statistics;
+package com.soulbiubiubiu.connector.statistics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
